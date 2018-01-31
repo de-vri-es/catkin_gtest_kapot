@@ -1,0 +1,9 @@
+<package format="2">
+	<name>catkin_gtest_kapot</name>
+	<description>catkin_add_gtest() is kapot</description>
+	<version>0.0.1</version>
+	<maintainer email="maarten@de-vri.es">Maarten de Vries</maintainer>
+	<license>zelf te kiezen</license>
+
+	<buildtool_depend>catkin</buildtool_depend>
+</package>
